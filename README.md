@@ -1,4 +1,4 @@
-# [Support the original repository](https://github.com/sponsors/nbelyh) to keep [the website](https://editsvgcode.com) https://editsvgcode.com online!
+# [Support the original repository](https://github.com/sponsors/nbelyh) to keep [the website](https://editsvgcode.com) https://editsvgcode.com online (or support the dev)!
 
 # Online SVG auto-complete code editor 
 
