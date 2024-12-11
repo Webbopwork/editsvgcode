@@ -1,3 +1,5 @@
+# [Support the original repository](https://github.com/sponsors/nbelyh) to keep [the website](https://editsvgcode.com) https://editsvgcode.com online!
+
 # Online SVG auto-complete code editor 
 
 The editor is based on monaco editor, and implements completion provider for SVG.
